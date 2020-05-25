@@ -5,3 +5,11 @@ build
 
 # emacs
 *~
+\#*
+.\#*
+
+# VirtualEnv
+virtualenv/
+
+# Gecko
+geckodriver.log
