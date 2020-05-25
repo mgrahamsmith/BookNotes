@@ -1,4 +1,6 @@
 build
+*__pycache__
+*.pyc
 
 # vim
 *.swp
@@ -13,3 +15,6 @@ virtualenv/
 
 # Gecko
 geckodriver.log
+
+# Django
+db.sqlite3

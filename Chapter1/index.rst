@@ -23,7 +23,7 @@ Installation Notes and Links
   - Tutorial_ notes
   - cd <folder-name>
   - python3.8 -m venv virtualenv
-  - Activate virtualenv: `/virtualenv/bin/activate`
+  - Activate virtualenv: `source virtualenv/bin/activate`
   - Deactivate: `deactivate`
 
 - Django_ and Selenium_ Tutorial_ steps
