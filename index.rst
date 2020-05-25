@@ -23,7 +23,9 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   docs/Daily/index
    Chapter1/index
+   
 
 [Harry J.W. Percival]: https://www.obeythetestinggoat.com/
 
