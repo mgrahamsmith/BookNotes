@@ -1,4 +1,9 @@
-Notes on [Harry J.W. Percival]'s book: **Test-Driven Development with Python**
+.. Notes On TDD Python documentation master file, created by
+   sphinx-quickstart on Sat Mar 21 01:40:15 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Notes on Harry J.W. Percival's book: **Test-Driven Development with Python**
 ==============================================================================
 
 General Notes
@@ -14,6 +19,11 @@ Build Instructions
 
 Contents
 --------
+
+.. toctree::
+   :maxdepth: 2
+
+   Chapter1/index
 
 [Harry J.W. Percival]: https://www.obeythetestinggoat.com/
 
