@@ -3,3 +3,19 @@ May 24, 2020 Notes
 
 Notes
 -----
+
+Where I left off: `1.2 Getting Django Up and Running <TddTutorial_>`_
+
+Summary
+-------
+Successfully setup all needed tools, and got Selenium to test the Firefox browser at localhost:8000 to see if Django comes up.  Test fails, as desired at this point.
+
+TODO
+----
+
+  - fill in some hyperlinks in Chapter 1 notes
+  - find out how to custom name the hyperlinks, and not default to whatever is in the '_thisName'
+    - DONE: the fix is on the next line with an example
+
+
+.. _TddTutorial: https://www.obeythetestinggoat.com/book/chapter_01.html#_getting_django_up_and_running
